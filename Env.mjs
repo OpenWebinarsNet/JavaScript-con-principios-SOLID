@@ -1,0 +1,5 @@
+
+globalThis.TICKET_NUMBER_LENGHT = 5
+globalThis.MAX_TICKET_NUMBER = 99999
+globalThis.MIN_TICKET_NUMBER = 1
+globalThis.LOTTERY_NUMBER_STEPS = 1
